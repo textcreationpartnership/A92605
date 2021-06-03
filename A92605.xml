@@ -1,0 +1,289 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The resolution of the kingdome of Scotland, concerning the Kings Majesty, religion, crown, and kingdoms; read in both house of Parliament assembled at Westminster, wherein they declare, their full resolution to preserve and defend their dread soveraigne the King, his person, honour, and authority, according to the laws of that nation, and the duty of loyall subjects. And the proceedings and debates of both houses thereupon, in answer to the resolution and demands of the Parliament of Scotland.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 11KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92605</idno><idno type="EEBO-CITATION">99864390</idno>
+  <idno type="VID">161685</idno>
+  <idno type="EEBO-PROQUEST">2240902225</idno>
+  
+            <idno type="STC">Wing S1333</idno>
+            <idno type="STC">Thomason E441_31</idno>
+            <idno type="STC">ESTC R204943</idno>
+            <idno type="PROQUEST">99864390</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99864390e"/>
+            <note>(EEBO-TCP ; phase 2, no. A92605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 161685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 69:E441[31])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The resolution of the kingdome of Scotland, concerning the Kings Majesty, religion, crown, and kingdoms; read in both house of Parliament assembled at Westminster, wherein they declare, their full resolution to preserve and defend their dread soveraigne the King, his person, honour, and authority, according to the laws of that nation, and the duty of loyall subjects. And the proceedings and debates of both houses thereupon, in answer to the resolution and demands of the Parliament of Scotland.</title>
+                  <author>Scotland. Parliament.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 1, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.VV, and are to be sold neer the Royal Exchange in Cornhill, and without Temple Barre,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>MDCXLVIII. [1648]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "May 11th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="uniform_title">Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  History --  1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:161685:1"/>
+            <p>THE RESOLVTION Of the Kingdome of SCOTLAND, CONCERNING The Kings Majesty, Religion, Crown, and Kingdoms; Read in both House of Parliament assembled at <hi>Westminster,</hi> Wherein they declare, their full resolution to pre<g ref="char:EOLhyphen"/>serve and defend their dread Sovera<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gne the <hi>KING,</hi> His Person, Honour, and Authori<g ref="char:EOLhyphen"/>ty, according to the Laws of that Nation, and the duty of loyall Subjects.</p>
+            <p>AND The proceedings and Debates of both Houses thereupon, in answer to the Resolution and Demands of the Parliament of <hi>Scotland.</hi>
+            </p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>REsolved and agreed upon, by the Estates of Parliament con<g ref="char:EOLhyphen"/>veened in the first Session of the second Triennall Parla<g ref="char:EOLhyphen"/>ment, that this be forthwith printed and published, and pre<g ref="char:EOLhyphen"/>sented to our Brethren of <hi>England.</hi>
+                        </p>
+                        <closer>
+                           <signed>
+                              <hi>S<gap reason="illegible" extent="1 letter">
+                                    <desc>•</desc>
+                                 </gap>gned, Alex. Gibson,</hi> Cleric.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <add>may 11<seg rend="sup">th</seg>
+               </add>
+               <hi>London,</hi> Printed for <hi>G. VV,</hi> and are to be sold neer the Royal Ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hange in <hi>Cornhill,</hi> and without Temple Barre, MDCXLVIII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="Parliamentary_resolution">
+            <pb facs="tcp:161685:2"/>
+            <pb n="1" facs="tcp:161685:2"/>
+            <head>THE RESOLUTION Of the Kingd<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me of SCOTLAND ONCERNING The Kings Majesty, Crowne, and Kingdoms; Read in both Houses of Parliament. Wherein they declare, their firme and constant Resolution, to defend and mainta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r Na<g ref="char:EOLhyphen"/>tive and dread Soveraign the King, his Person and Autho<g ref="char:EOLhyphen"/>rity, in the preservation of the true Rel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion, and Libert<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es of the Kingdoms.</head>
+            <p>WE having resolved in the first place to endeavour and assay all brotherly and amicable means of endeavou<g ref="char:EOLhyphen"/>ring to make up such differences or breaches, as may otherwise necessitate this Kingdom to ingage in a war, do send to the ho<g ref="char:EOLhyphen"/>nourable Houses of the Parl. of <hi>England,</hi> these following neces<g ref="char:EOLhyphen"/>sary,
+<pb facs="tcp:161685:3"/> and just desires for Religion, his Majesty, and good and peace of these Kingdoms.</p>
+            <p n="1">1. That an effectuall course be tane by the Houses for en<g ref="char:EOLhyphen"/>joyning the Covenant to be taken by all the subjects of the Crown of <hi>England,</hi> conform to the first Article of the Treaty, and con<g ref="char:EOLhyphen"/>form to the Declaration of both Kingdoms in <hi>anno</hi> 1643. By which all who would not take the Covenant, were declared to bee publike enemies to Religion and the Country, and that they are to be censured and punished as professed adversaries and ma<g ref="char:EOLhyphen"/>lignants. And that Reformation of, and Vniformity in Religion be setled according to the Covenant, That as the Houses of Parl. have agreed to the Directory of Worship, so they would take a reall course for the practising thereof by all the subjects in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and <hi>Ireland,</hi> that Presbyteriall Government, with the su<g ref="char:EOLhyphen"/>bordination of the lower Assemblies to the higher, be fully setled and established in <hi>England</hi> and <hi>Ir<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>land</hi> and that any effectuall course may be taken for suppressing and extirpating all Here<g ref="char:EOLhyphen"/>sies and schismes, and for perfecting what is yet further to bee done for extirpating popery and prelacy, &amp;c.</p>
+            <p n="2">2. That the Kings Majesty may come with honour, freedome, and safety, to some of his houses in or neer Lon<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on, that the Parliaments of both Kingdomes may make their applications to him for obtaining his Royall assent to su<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h desires as shall be by them presented to him for establishing Rel<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gion, and setling a well-grounded peace.</p>
+            <p n="3">3. And to the end that all Members of both Houses who have been faithfull to this Cause, may freely and safely returne to at<g ref="char:EOLhyphen"/>tend their Charges, the City o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>London</hi> may enjoy its liberty &amp; priviledges, which it had before the late encroachment of the Army, the Parliament may sit and voice with free<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome and safety, both Kingdoms without interruption may mak<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their ap<g ref="char:EOLhyphen"/>plications to his Maj. and the setling of Religio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd peace may be no long hindred and obstructed, than the pres<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt armie of Sectaries be disbanded.</p>
+            <pb facs="tcp:161685:3"/>
+            <p>We will not doubt but the honourable Houses will se<g ref="char:EOLhyphen"/>riously weigh and consider how nece<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ary and just these our demands are, to which we will <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpect a satisfactory answer; but if through the influen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e and power of the Ar<g ref="char:EOLhyphen"/>my of Sectaries that now invirons them, these our desires be slighted and rejected; Yet, we resolve by Gods assistance in all our proceeding never to break on our part the union betwixt the Kingdomes, nor to encroach upon the nationall rights of the <hi>Subjects</hi> of <hi>England,</hi> or entrench upon their just liberties, much lesse is it our intention at all to make any Nationall engagement against the Parliament and Kingdome of <hi>England.</hi> But for them, whose freedome, pri<g ref="char:EOLhyphen"/>viledge, and happinesse shal ever be as dear unto Us as our own. An<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> if we shal be necessitate to any un<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erta<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ings in a War, we do resolve, that as the engagements of this King<g ref="char:EOLhyphen"/>dom have been constantly hitherto, for setling Tru<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h and peace under his Maj. Government, so they shall still be for obstaining the same ends.</p>
+            <p>And we <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urther declare, that wee will give trust in our Armies and Committees to none bu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> such as are of knowne in<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egrt<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aithfulness to this Cause and Covenant, and against whom there is no just cau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of exception. And as we shal end<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>avour the rescuing of his Maj. from those who vio<g ref="char:EOLhyphen"/>lently carryed him away from <hi>Holdenby,</hi> and by whose po<g ref="char:EOLhyphen"/>wer he is stil detained prisoner, that he may come with ho<g ref="char:EOLhyphen"/>nour, freedome, and safety to some of his houses, that so a firm and wel grounded peace may speedily be concluded of: So we resolve not to pu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in his Maj. hands or any others whatsoever, any such p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wer, whereby the foresaid ends of the Covenan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or any one of them may be obstructed or op<g ref="char:EOLhyphen"/>posed, Religion or Pre<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>by<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>erian Government endangered. But on the contrary, before <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>y agreement or condition to be made with his Maj. hav<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng found his late con<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>essions and offers concerning Relig<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on not satisfactory. That hee
+<pb facs="tcp:161685:4"/> give assurance by his solemn oath under his hand and seale, That he shal for himself, and his Successors, give his Royall assent, and agree to such Act or Acts of Parliament, &amp; Bils, as shall bee presented to him by his Parliaments of both or either Kingdoms <hi>respectivè,</hi> for enjoyning the League and Covenant, and fully establishing Presbyterial Government. And albeit we are resolved not to ingage so any Warre be<g ref="char:EOLhyphen"/>fore the necessity and lawfulnesse thereof be cleared: so as all who are wel-affected may be satisfied therewith. And that reparation to such breaches and injuries, as are or shall be condescended to, shal be demanded in such a just and fit way, as shal be found most lawful and exped<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ent. Yet wee cannot be answerable to the great trust la<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d upon us, <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> see<g ref="char:EOLhyphen"/>ing so emminent and great dangers to all that is dearest to us; We did not make use of our authority &amp; power for the common safety of this Kingdom, and therefore we have re<g ref="char:EOLhyphen"/>solved to put this Kingdome presently into a posture of de<g ref="char:EOLhyphen"/>fence, as it was <hi>anno</hi> 1643.</p>
+            <p>And now as many of the dangers, with the grounds and resolutions <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n pursuance of our duty, are hereby made known to this Kingdom; so we are assured, that all, and eve<g ref="char:EOLhyphen"/>ry one, who have any zeal to Religion, love to monarchicall Government, sense of the sufferings and imprisonment of their King, affection to their oppressed Brethren in <hi>England,</hi> or desire to preserve the priviledges of Parliament, and Li<g ref="char:EOLhyphen"/>berty of the Subject, will cheerfully in such an exigent, (while the eyes of all Christendome are upon us) rouze up themselves, and contribute their best endeavours, as they shal be required by us, in pursuance of all the ends of the Covenant, aswel for Religion, as for his Maj. person and Go<g ref="char:EOLhyphen"/>vernment; in doing whereof, we shall witnesse to the world, that we have not swerved from these our first principles, contained in our National Covenant, and in our Solemne League and Covenant, whereby we did solemnly swear, and
+<pb facs="tcp:161685:4"/> promise before God and his Angels, to endeavour in our se<g ref="char:EOLhyphen"/>veral places and call<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ngs, the Reformation of Religion in all his Maj. Dom<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ons, accord<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng to the Word of God, and ex<g ref="char:EOLhyphen"/>ample of the best reformed Churches; and not only to the utmost of our power, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th our meanes and lives to stand to the defence of our dread Soveraign, his Person and Autho<g ref="char:EOLhyphen"/>rity, in the preservation nf the true Religion, and Liberties of the K ngdoms: But also in every cause which may concerne his Maj. honour to concurre according to the Lawes of the Kingdom, and duty of good Subjects: And also hereby give a singular proof of the good intentions of all that maintaine Presbyteriall Government, that they are not enemies to Mo<g ref="char:EOLhyphen"/>narchies, as they are falsly by their enemies branded. And n particular, this Kingdom of <hi>Scotland</hi> will now make it evi<g ref="char:EOLhyphen"/>dent, as they have often declared, that their quietness, stabili<g ref="char:EOLhyphen"/>ty, and happiness, doth depend vpon the safety of the Kings Maj. person, and maintenance of his greatness and Royal au<g ref="char:EOLhyphen"/>thority, who is Gods Vice-gerent set over us for maintenance of Religion, and ministration of Justice: Having so many bands and ties of Duty and subjection to his Majesty and Government, w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o is our native K<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ng from a longer Series, and d scent of his Royal Progenitors then can be parallel'd in Europe. That we resolve closely, and constantly to ad<g ref="char:EOLhyphen"/>here thereunto, as also to all the Ends of the Covenant.</p>
+            <closer>
+               <signed>
+                  <hi>Signed, Alex. Gibson,</hi> Cler. Regist.</signed>
+            </closer>
+         </div>
+         <div type="response_to_Parliamentary_resolution">
+            <pb facs="tcp:161685:5"/>
+            <head>The Debates of both Houses, in answer to the <hi>Scots</hi> DEMANDS.</head>
+            <p>THere have sundry Votes past the House of Commons this day and on Satterday last, both in relation to the King, and in answer to the Propositions lately received from Scotland; and therein they in the first place recalled the for<g ref="char:EOLhyphen"/>mer Votes for making no further addresses to the King, and voted, that further addresses should be made to him, <hi>viz.</hi> by sending the Propositions again whic<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> were tendered to His Majesty at Hampton-Court.</p>
+            <p>The House then resumed the consideration of the Letter, with the Demands inclosed from Scotian<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, and ordered, that the Lords concurrence should be desired to the Vote, for the Government of this Kingdom to be by <hi>King, Lords,</hi> and <hi>Commons.</hi>
+            </p>
+            <p>They further debated upon the Votes yesterday past, for preserving inviolably the solemn League and Covenant, and the Treaties of bo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h Kingdoms, and the Vote for a further addresse to his Maj<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>sty, upon the propositions at Hamp<g ref="char:EOLhyphen"/>ton-Court, and made some explanation or addition there<g ref="char:EOLhyphen"/>unto, That they would be ready to joyn with Scotland up<g ref="char:EOLhyphen"/>on t<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ose propositions, so far forth as may tend to the union and peace of both Kingdoms.</p>
+            <closer/>
+            <postscript>
+               <p>Imprimatur</p>
+               <closer>
+                  <signed>G. M.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
